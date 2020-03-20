@@ -10,6 +10,9 @@ Since I used machine learning algorithms, I did not apply weights to have the da
 Overview of files:
 
 model.py - Code for building the machine learning model. Train and test accuracy of 65% and 66%, respectively.
+
 app.py - Flask API for receiving API calls and computing predicted probability based on user inputs.
+
 request.py - Requests module to call Flask APIs.
+
 HTML/CSS - HTML/CSS template for styling page for user to enter survey data about mother's education and student beliefs.
